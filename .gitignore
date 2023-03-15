@@ -239,3 +239,7 @@ basicjava/src/.project
 basicjava/src/생성자.txt
 basicjava/src/자바문법.txt
 basicjava/src/자바원리.txt
+advancedJava/.classpath
+advancedJava/.project
+advancedJava/.settings/org.eclipse.core.resources.prefs
+advancedJava/.settings/org.eclipse.jdt.core.prefs
